@@ -3,8 +3,10 @@ Abstruct retry strategy of Promise on failure.
 
 ## Installtion
 ```shell
-# install using npm and github repository link
-npm install https://github.com/saikatdutta1991/retry.git
+# install using npm or yarn and github repository link
+npm install https://github.com/saikatdutta1991/retry.git --save
+# or 
+yarn add https://github.com/saikatdutta1991/retry.git
 ```
 
 ## Uses and example
