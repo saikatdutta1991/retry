@@ -2,6 +2,10 @@
 Abstruct retry strategy of Promise on failure.
 
 ## Installtion
+```shell
+# install using npm and github repository link
+npm install https://github.com/saikatdutta1991/retry.git
+```
 
 ## Uses and example
 ```javascript
