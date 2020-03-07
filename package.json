@@ -1,0 +1,26 @@
+{
+  "name": "@saikat/retry",
+  "version": "1.0.0",
+  "description": "Retry promise on failure",
+  "main": "src/main/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikatdutta1991/retry.git"
+  },
+  "keywords": [
+    "retry",
+    "failure",
+    "function",
+    "retry",
+    "strategy"
+  ],
+  "author": "Saikat Dutta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saikatdutta1991/retry/issues"
+  },
+  "homepage": "https://github.com/saikatdutta1991/retry#readme"
+}
